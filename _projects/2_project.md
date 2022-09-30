@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: IceCube Neutrino Observatory
+description: Life and work, wintering at the South Pole in Antarctica.
+img: assets/img/2021week19_josh_martin_snow_icl_mwolf_reduced.jpg
 importance: 2
 category: work
 ---

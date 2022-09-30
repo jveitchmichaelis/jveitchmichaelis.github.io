@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Astro-Ecology
+description: How can we take advantages of advances in drone technology, cameras and low-power computing to save endangered species?
+img: assets/img/elephants.jpg
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

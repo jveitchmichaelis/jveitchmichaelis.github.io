@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Imaging in extreme environments
+description: As part of my PhD (and beyond), designing camera systems for deployment inside steel manufacturing plants.
+img: assets/img/Continuously-cast-steel-slab-imaged-using-the-HTP-C-instrument-The-red-box-highlights.png
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

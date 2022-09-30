@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Astronomical Spectroscopy
+description: An ongoing effort to automate the tedious task of calibrating astronomical spectrometers.
+img: assets/img/spectra_cover.jpg
+redirect: https://github.com/jveitchmichaelis/rascal
 importance: 3
 category: work
 ---

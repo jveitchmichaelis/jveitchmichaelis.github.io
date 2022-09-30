@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jveitchmichaelis
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - LjmuAstroEcology/flirpy
+  - jveitchmichaelis/deeplabel
+  - jveitchmichaelis/rascal
+  - jveitchmichaelis/gotcha
+  - jveitchmichaelis/edgetpu-yolo

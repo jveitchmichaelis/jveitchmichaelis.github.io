@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Ecosystem Monitoring
+description: Applying ML to better understand ecosystem restoration.
+img: assets/img/forest_crop.png
 importance: 1
 category: work
 ---
