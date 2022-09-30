@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: WorldFloods
+description: One of the first public demonstrations of a reconfigurable deep learning payload onboard a small satellite, which we launched in 2021.
+img: assets/img/worldfloods.webp
+redirect: https://www.nature.com/articles/s41598-021-86650-z
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
