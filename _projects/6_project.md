@@ -4,6 +4,7 @@ title: Imaging in extreme environments
 description: As part of my PhD (and beyond), designing camera systems for deployment inside steel manufacturing plants.
 img: assets/img/Continuously-cast-steel-slab-imaged-using-the-HTP-C-instrument-The-red-box-highlights.png
 importance: 4
+redirect: https://ieeexplore.ieee.org/document/7801541
 category: work
 ---
 
