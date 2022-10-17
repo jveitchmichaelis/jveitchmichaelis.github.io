@@ -3,6 +3,7 @@ layout: page
 title: Astro-Ecology
 description: How can we take advantages of advances in drone technology, cameras and low-power computing to save endangered species?
 img: assets/img/elephants.jpg
+redirect: https://www.zooniverse.org/projects/rossmcwhirter/astro-ecology
 importance: 3
 category: work
 ---

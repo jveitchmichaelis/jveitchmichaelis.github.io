@@ -3,6 +3,7 @@ layout: page
 title: Ecosystem Monitoring
 description: Applying ML to better understand ecosystem restoration.
 img: assets/img/forest_crop.png
+redirect: https://restor.eco
 importance: 1
 category: work
 ---

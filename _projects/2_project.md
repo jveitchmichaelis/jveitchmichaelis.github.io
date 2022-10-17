@@ -3,6 +3,7 @@ layout: page
 title: IceCube Neutrino Observatory
 description: Life and work, wintering at the South Pole in Antarctica.
 img: assets/img/2021week19_josh_martin_snow_icl_mwolf_reduced.jpg
+redirect: https://icecube.wisc.edu/news/life-at-the-pole/2020/11/meet-icecube-2020-2021-winterovers-josh-and-martin/
 importance: 2
 category: work
 ---
