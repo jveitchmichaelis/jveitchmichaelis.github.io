@@ -1,15 +1,29 @@
 ---
 ---
 
-@article{10.21203/rs.3.rs-1941984/v1,
-abbr = {Preprint},
-year = {2022}, 
-title = {In-orbit demonstration of a re-trainable Machine Learning Payload for processing optical imagery}, 
-author = {Mateo-García, Gonzalo and Veitch-Michaelis, Josh and Purcell, Cormac and Longepe, Nicolas and Mathieu, Pierre Philippe and Reid, Simon and Anlind, Alice and Bruhn, Fredrik and Parr, James}, 
-doi = {10.21203/rs.3.rs-1941984/v1}, 
-journal={Research Square},
-abstract = {Cognitive cloud computing in space (3CS) describes a new frontier of space innovation powered by Artificial Intelligence, enabling an explosion of new applications in observing our planet and enabling deep space exploration. In this framework, machine learning (ML) payloads --isolated software capable of extracting high level information from onboard sensors-- are key to accomplish this vision. In this work we demonstrate, in a satellite deployed in orbit, a ML payload called 'WorldFloods' that is able to send compressed flood maps from sensed images. In particular, we perform a set of experiments to: (1) compare different segmentation models on different processing variables critical for onboard deployment, (2) show that we can produce, onboard, vectorised polygons delineating the detected flood water from a full Sentinel-2 tile, (3) retrain the model with few images of the onboard sensor downlinked to Earth and (4) demonstrate that this new model can be uplinked to the satellite and run on new images acquired by its camera. Overall our work demonstrates that ML-based models deployed in orbit can be updated if new information is available, paving the way for agile integration of onboard and onground processing and "on the fly" continuous learning.}, 
-keywords = {}
+@article{veitchmichaelis2024oamtcdgloballydiversedataset,
+  abbr = {Preprint},
+      title={OAM-TCD: A globally diverse dataset of high-resolution tree cover maps}, 
+      author={Josh Veitch-Michaelis and Andrew Cottam and Daniella Schweizer and Eben N. Broadbent and David Dao and Ce Zhang and Angelica Almeyda Zambrano and Simeon Max},
+      year={2024},
+      eprint={2407.11743},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+	  Publisher = {arXiv preprint, currently under peer review},
+    Abstract={Accurately quantifying tree cover is an important metric for ecosystem monitoring and for assessing progress in restored sites. Recent works have shown that deep learning-based segmentation algorithms are capable of accurately mapping trees at country and continental scales using high-resolution aerial and satellite imagery. Mapping at high (ideally sub-meter) resolution is necessary to identify individual trees, however there are few open-access datasets containing instance level annotations and those that exist are small or not geographically diverse. We present a novel open-access dataset for individual tree crown delineation (TCD) in high-resolution aerial imagery sourced from OpenAerialMap (OAM). Our dataset, OAM-TCD, comprises 5072 2048x2048 px images at 10 cm/px resolution with associated human-labeled instance masks for over 280k individual and 56k groups of trees. By sampling imagery from around the world, we are able to better capture the diversity and morphology of trees in different terrestrial biomes and in both urban and natural environments. Using our dataset, we train reference instance and semantic segmentation models that compare favorably to existing state-of-the-art models. We assess performance through k-fold cross-validation and comparison with existing datasets; additionally we demonstrate compelling results on independent aerial imagery captured over Switzerland and compare to municipal tree inventories and LIDAR-derived canopy maps in the city of Zurich. Our dataset, models and training/benchmark code are publicly released under permissive open-source licenses: Creative Commons (majority CC BY 4.0), and Apache 2.0 respectively. },
+	  DOI = {10.48550/arXiv.2407.11743},
+}
+
+@article{PPR:PPR534649,
+  abbr = {Sci. Rep.},
+  Title = {In-orbit demonstration of a re-trainable Machine Learning Payload for processing optical imagery},
+  Author = {Mateo-García, Gonzalo and Josh Veitch-Michaelis and Purcell, Cormac and Longepe, Nicolas and Mathieu, Pierre Philippe and Reid, Simon and Anlind, Alice and Bruhn, Fredrik and Parr, James},
+  DOI = {10.10238/s41598-023-34436-w},
+  Abstract = {Cognitive cloud computing in space (3CS) describes a new frontier of space innovation powered by Artificial Intelligence, enabling an explosion of new applications in observing our planet and enabling deep space exploration. In this framework, machine learning (ML) payloads --isolated software capable of extracting high level information from onboard sensors-- are key to accomplish this vision. In this work we demonstrate, in a satellite deployed in orbit, a ML payload called ‘WorldFloods’ that is able to send compressed flood maps from sensed images. In particular, we perform a set of experiments to: (1) compare different segmentation models on different processing variables critical for onboard deployment, (2) show that we can produce, onboard, vectorised polygons delineating the detected flood water from a full Sentinel-2 tile, (3) retrain the model with few images of the onboard sensor downlinked to Earth and (4) demonstrate that this new model can be uplinked to the satellite and run on new images acquired by its camera. Overall our work demonstrates that ML-based models deployed in orbit can be updated if new information is available, paving the way for agile integration of onboard and onground processing and "on the fly" continuous learning.},
+  journal = {Scientific Reports},
+  volume={13},
+  number={10391},
+  Year = {2023}
 }
 
 @article{2021worldfloods,
@@ -113,10 +127,12 @@ keywords = {}
 
 @phdthesis{veitch2017fusion,
   abbr={PhD Thesis},
-  title={Fusion of LIDAR with stereo camera data-an assessment},
+  title={Fusion of LIDAR with stereo camera data - an assessment},
   author={Veitch-Michaelis, Josh},
   year={2017},
-  school={UCL (University College London)}
+  school={UCL (University College London)},
+  url={https://discovery.ucl.ac.uk/1536083/},
+  abstract={This thesis explores data fusion of LIDAR (laser range-finding) with stereo matching, with a particular emphasis on close-range industrial 3D imaging. Recently there has been interest in improving the robustness of stereo matching using data fusion with active range data. These range data have typically been acquired using time of flight cameras (ToFCs), however ToFCs offer poor spatial resolution and are noisy. Comparatively little work has been performed using LIDAR. It is argued that stereo and LIDAR are complementary and there are numerous advantages to integrating LIDAR into stereo systems. For instance, camera calibration is a necessary prerequisite for stereo 3D reconstruction, but the process is often tedious and requires precise calibration targets. It is shown that a visible-beam LIDAR enables automatic, accurate (sub-pixel) extrinsic and intrinsic camera calibration without any explicit targets. Two methods for using LIDAR to assist dense disparity maps from featureless scenes were investigated. The first involved using a LIDAR to provide high-confidence seed points for a region growing stereo matching algorithm. It is shown that these seed points allow dense matching in scenes which fail to match using stereo alone. Secondly, LIDAR was used to provide artificial texture in featureless image regions. Texture was generated by combining real or simulated images of every point the laser hits to form a pseudo-random pattern. Machine learning was used to determine the image regions that are most likely to be stereo- matched, reducing the number of LIDAR points required. Results are compared to competing techniques such as laser speckle, data projection and diffractive optical elements.}
 }
 
 @inproceedings{tao2016optimised,

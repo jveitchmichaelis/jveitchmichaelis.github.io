@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Frontier Development Lab
-description: Space Science x Machine Learning; ad astra per algorithmos
-img: assets/img/fdl_patch.jpg
-importance: 4
-redirect: https://frontierdevelopmentlab.org
+title: South Pole Telescope
+description: Observing the early universe, one microwave photon at a time.
+img: assets/img/spt_moon.jpg
+redirect: https://www.instagram.com/joshlvm/
+importance: 1
 category: work
 ---
 
@@ -60,6 +60,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
+
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).

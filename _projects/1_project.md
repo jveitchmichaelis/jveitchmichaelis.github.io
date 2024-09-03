@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ecosystem Monitoring
-description: Applying ML to better understand ecosystem restoration.
+description: Developing state-of-the-art models for tree crown mapping in high resolution images.
 img: assets/img/forest_crop.png
-redirect: https://restor.eco
+redirect: https://restor-foundation.github.io/tcd/
 importance: 1
 category: work
 related_publications: true
