@@ -26,13 +26,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: South Pole Telescope Winterover
+      institution: University of Chicago (South Pole, Antarctica)
+      year: 2023 - 2024
+      description:
+      - Operate and maintain the South Pole Telescope, on-site support for Event Horizon Telescope observations, critical hardware/software support.
     - title: Postdoctoral Researcher in AI for remote sensing
       institution: ETH Zurich, Switzerland
-      year: 2022 - 
+      year: 2022 - 2023
       description:
-        - Developing machine learning algorithms for ecosystem conservation, based on remotely sensed data
+        - Joint with Restor Eco
+        - Developing machine learning algorithms for ecosystem conservation, based on remotely sensed data. Developed Restor's tree crown delineation pipeline.
     - title: IceCube Winterover Experiments Operator
-      institution: Wisconsin-Madison University
+      institution: Wisconsin-Madison University (South Pole, Antarctica)
       year: 2020-2022
       description:
         - Operate and maintain the IceCube Neutrino Observatory at the South Pole, providing critical hardware and software support (on-call 24/7 year-round)
@@ -66,7 +72,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2021
+    - year: 2021, 2024
       items: 
         - Antarctica Service Medal (Wintered Over), National Science Foundation (USA)
     - year: 2019

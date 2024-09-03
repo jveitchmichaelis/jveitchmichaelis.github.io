@@ -2,6 +2,7 @@ github_users:
   - jveitchmichaelis
 
 github_repos:
+  - restor-foundation/tcd
   - LjmuAstroEcology/flirpy
   - jveitchmichaelis/deeplabel
   - jveitchmichaelis/rascal

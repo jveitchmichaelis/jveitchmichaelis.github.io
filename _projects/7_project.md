@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ecosystem Monitoring
-description: Developing state-of-the-art models for tree crown mapping in high resolution images.
-img: assets/img/forest_crop.png
-redirect: https://restor-foundation.github.io/tcd/
-importance: 1
+title: Frontier Development Lab
+description: Space Science x Machine Learning; ad astra per algorithmos
+img: assets/img/fdl_patch.jpg
+importance: 4
+redirect: https://frontierdevelopmentlab.org
 category: work
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Ecosystem Monitoring
-description: Developing state-of-the-art models for tree crown mapping in high resolution images.
-img: assets/img/forest_crop.png
-redirect: https://restor-foundation.github.io/tcd/
+title: South Pole Telescope
+description: Observing the early universe, one microwave photon at a time.
+img: assets/img/spt_moon.jpg
+redirect: https://www.instagram.com/joshlvm/
 importance: 1
 category: work
 ---
