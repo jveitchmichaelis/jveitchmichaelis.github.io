@@ -24,5 +24,5 @@ I've often been at the intersection of academia and industry. Some of the more i
 I obtained my PhD from the Mullard Space Science Laboratory (University College London) in 2016, and awarded best thesis by the Remote Sensing and Photogrammatery Society. I was also awarded UCL's SIM scholarship the Worshipful Company of Scientific Instrument Makers for excellence in instrumentation research.
 
 
-{% include figure.html path="assets/img/spt_banner_photo.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/spt_banner_photo.jpg" class="img-fluid rounded z-depth-1" %}
 _Me, taking pictures of the aurora australis in front of the South Pole Telescope late in winter 2024 - photo by my co-winterover [Kevin Zagorski](https://www.kevinzag.com/home)_
